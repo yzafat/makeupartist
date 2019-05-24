@@ -1,12 +1,12 @@
 {
-  "name": "akame-hair-salon-html-template",
+  "name": "makeup-artist-studio-salon-html-template",
   "version": "1.0.0",
-  "description": "Akame Hair Salon HTML Template",
+  "description": "Makeup Artist Studio Salon",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "colorlib",
+  "author": "MAKEUP ARTIST STUDIO",
   "license": "CC-BY-3.0",
   "devDependencies": {
     "gulp": "^3.9.1",
